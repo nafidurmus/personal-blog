@@ -13,6 +13,7 @@ gem 'devise', '~> 3.3.0'
 group :development, :test do
 	gem 'sqlite3'
 	gem 'spring'
+	
 end
 
 
